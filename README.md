@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Fabio L. da Silva Junior, tenho 19 anos e sou de Brasilia. Concluí o ensino médio no CED 619, e fiz o curso de Desenvolvimento de Sistemas do SENAC DF. Atualmente estudando Java, Spring boot e SQL. Sou apaixonadao por tecnologia e compartilho meu conhecimento através dos meus projetos e também do Instagram, com o perfil chamado "[shwz.ssilva](https://www.instagram.com/shwz.ssilva?igsh=YmZvYmlzM295NTBm)".
+My name is Fabio L. da Silva Junior, I am 19 years old and I am from Brasilia. I completed high school at CED 619, and I took a Systems Development course at SENAC DF. Currently, I am studying Java, Spring Boot, and SQL. I am passionate about technology and I share my knowledge through my projects and also on Instagram, with the profile called "[shwz.ssilva](https://www.instagram.com/shwz.ssilva?igsh=YmZvYmlzM295NTBm)".
 
 
 <p align="left">
