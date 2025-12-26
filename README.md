@@ -1,4 +1,4 @@
-# https://emojigraph.org/media/72/google/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png Shwz.Silva
+# 👨🏽‍💻 Shwz.Silva
 
 **`Desenvolvedor FullStack`**
 
